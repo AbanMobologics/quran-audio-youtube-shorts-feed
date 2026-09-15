@@ -151,9 +151,13 @@ def youtube_request(
     url = f"{YOUTUBE_API_BASE}/{endpoint}"
     req_params = dict(params)
     req_params["key"] = api_key
+    headers = {
+        "Referer": "https://github.com/AbanMobologics/quran-audio-youtube-shorts-feed",
+        "User-Agent": "QuranShortsFeedPipeline/1.0",
+    }
 
     try:
-        response = session.get(url, params=req_params, timeout=timeout)
+        response = session.get(url, params=req_params, headers=headers, timeout=timeout)
     except requests.exceptions.Timeout:
         raise RuntimeError(f"YouTube API request to '{endpoint}' timed out after {timeout} seconds.")
     except requests.exceptions.RequestException as e:
