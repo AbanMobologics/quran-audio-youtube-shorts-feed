@@ -1,0 +1,15 @@
+{
+  "queries": [
+    "quran recitation shorts",
+    "beautiful quran recitation",
+    "quran ayah shorts",
+    "surah recitation shorts"
+  ],
+  "channels": [],
+  "playlists": [],
+  "maxResultsPerQuery": 25,
+  "targetFeedSize": 100,
+  "minimumFeedSize": 30,
+  "feedTtlHours": 24,
+  "maxDurationSeconds": 60
+}
