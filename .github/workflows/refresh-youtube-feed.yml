@@ -44,20 +44,20 @@ jobs:
           if git diff --quiet data/youtube_feed.json; then
             echo "Feed data is unchanged. No commit needed."
           else
-            echo "Feed updated. Committing changes..."
+            echo "Feed updated. Preparing commit..."
+            # Save the freshly generated feed
+            cp data/youtube_feed.json /tmp/youtube_feed.json
+
+            # Sync to the absolute latest remote HEAD (no merge, no conflicts)
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
+            git fetch origin main
+            git reset --hard origin/main
+
+            # Apply the new feed on top of the latest remote state
+            cp /tmp/youtube_feed.json data/youtube_feed.json
             git add data/youtube_feed.json
             git commit -m "chore(feed): update quran youtube shorts feed [skip ci]"
-            for attempt in 1 2 3 4 5; do
-              git pull --rebase --autostash origin main || true
-              if git push origin main; then
-                echo "Successfully pushed feed update."
-                exit 0
-              fi
-              echo "Push attempt $attempt failed, retrying in 2 seconds..."
-              sleep 2
-            done
-            echo "Failed to push after multiple attempts."
-            exit 1
+            git push origin main
+            echo "Successfully pushed feed update."
           fi
