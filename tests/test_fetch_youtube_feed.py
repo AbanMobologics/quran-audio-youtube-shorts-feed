@@ -273,6 +273,21 @@ class TestYouTubeApiErrorHandling:
         with pytest.raises(RuntimeError, match="Daily quota exceeded"):
             youtube_request(session, "search", {}, "dummy_key")
 
+    def test_400_expired_key_error_message(self):
+        session = mock.Mock(spec=requests.Session)
+        mock_response = mock.Mock()
+        mock_response.status_code = 400
+        mock_response.json.return_value = {
+            "error": {
+                "errors": [{"reason": "keyExpired", "message": "API key expired. Please renew the API key."}],
+                "message": "API key expired. Please renew the API key.",
+            }
+        }
+        session.get.return_value = mock_response
+
+        with pytest.raises(RuntimeError, match="API key has expired"):
+            youtube_request(session, "search", {}, "dummy_key")
+
     def test_timeout_error_handling(self):
         session = mock.Mock(spec=requests.Session)
         session.get.side_effect = requests.exceptions.Timeout()

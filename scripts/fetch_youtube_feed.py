@@ -182,6 +182,10 @@ def youtube_request(
                 f"YouTube API Error [403]: Access forbidden/permissions issue. Details: {sanitized_msg}"
             )
         elif status_code == 400:
+            if "expired" in sanitized_msg.lower() or "keyexpired" in "".join(reasons).lower():
+                raise RuntimeError(
+                    f"YouTube API Error [400]: API key has expired. Please renew or create a new API key in Google Cloud Console. Details: {sanitized_msg}"
+                )
             raise RuntimeError(
                 f"YouTube API Error [400]: Invalid request parameter. Details: {sanitized_msg}"
             )
@@ -229,6 +233,22 @@ def determine_category(title: str, query_hint: str = "") -> str:
     return "other"
 
 
+def is_unrecoverable_api_error(error_msg: str) -> bool:
+    """Checks whether an error represents a non-retryable credential or quota failure."""
+    lower = error_msg.lower()
+    fatal_tokens = [
+        "quota exceeded",
+        "quotaexceeded",
+        "dailylimitexceeded",
+        "api key has expired",
+        "api key expired",
+        "invalid credentials",
+        "unauthorized api key",
+        "api key not valid",
+    ]
+    return any(token in lower for token in fatal_tokens)
+
+
 def search_videos(
     session: requests.Session,
     api_key: str,
@@ -264,6 +284,8 @@ def search_videos(
         try:
             data = youtube_request(session, "search", params, api_key)
         except RuntimeError as e:
+            if is_unrecoverable_api_error(str(e)):
+                raise
             logger.warning("Search query '%s' failed: %s", query_str, e)
             continue
 
@@ -307,6 +329,8 @@ def fetch_playlist_videos(
         try:
             data = youtube_request(session, "playlistItems", params, api_key)
         except RuntimeError as e:
+            if is_unrecoverable_api_error(str(e)):
+                raise
             logger.warning("Playlist '%s' fetch failed: %s", pl_id, e)
             continue
 
@@ -349,6 +373,8 @@ def fetch_channel_videos(
         try:
             data = youtube_request(session, "search", params, api_key)
         except RuntimeError as e:
+            if is_unrecoverable_api_error(str(e)):
+                raise
             logger.warning("Channel '%s' search failed: %s", ch_id, e)
             continue
 
