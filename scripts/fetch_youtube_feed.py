@@ -182,6 +182,16 @@ def youtube_request(
                 raise RuntimeError(
                     f"YouTube API Error [403]: Daily quota exceeded. Details: {sanitized_msg}"
                 )
+            if "android client" in sanitized_msg.lower():
+                raise RuntimeError(
+                    "YouTube API Error [403]: The API key has an 'Android apps' application restriction in Google Cloud Console. "
+                    "In Google Cloud Console, change 'Set application restrictions' to 'None' (and leave API restrictions as 'YouTube Data API v3' only). "
+                    "The pipeline runs as a Python script inside GitHub Actions, not inside an Android device."
+                )
+            if "referrer" in sanitized_msg.lower():
+                raise RuntimeError(
+                    f"YouTube API Error [403]: HTTP Referrer restriction blocked this request. Details: {sanitized_msg}"
+                )
             raise RuntimeError(
                 f"YouTube API Error [403]: Access forbidden/permissions issue. Details: {sanitized_msg}"
             )
@@ -249,6 +259,9 @@ def is_unrecoverable_api_error(error_msg: str) -> bool:
         "invalid credentials",
         "unauthorized api key",
         "api key not valid",
+        "android client",
+        "http referrer restriction",
+        "ip_referrers_blocked",
     ]
     return any(token in lower for token in fatal_tokens)
 
