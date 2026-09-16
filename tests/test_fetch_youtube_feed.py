@@ -145,6 +145,37 @@ class TestVideoValidation:
         raw = self._create_sample_raw_video(title="")
         assert validate_and_normalize_video(raw, {}) is None
 
+    def test_reject_non_pure_titles_with_excluded_keywords(self):
+        excluded = ["boy", "baby", "cute", "corrects", "friends", "interview", "react"]
+        junk_titles = [
+            "TOUCHING Quran Recitation by Street Boy in Yemen! #shorts",
+            "cute baby boy reciting Quran | cute baby boy",
+            "BREATHTAKING Quran Recitation With FRIENDS😍",
+            "Child Corrects Imam 😊 #shorts #motivation #quran",
+            "American Reacts to Quran Recitation",
+            "Street interview about Quran",
+        ]
+        for title in junk_titles:
+            raw = self._create_sample_raw_video(title=title)
+            assert (
+                validate_and_normalize_video(raw, {}, excluded_keywords=excluded)
+                is None
+            ), f"Failed to reject junk title: {title}"
+
+    def test_accept_pure_recitation_titles(self):
+        excluded = ["boy", "baby", "cute", "corrects", "friends", "interview", "react"]
+        pure_titles = [
+            "Surah Al-Mulk Beautiful Quran Recitation | Abdul Basit",
+            "Heart Soothing Recitation of Surah Ar-Rahman",
+            "Ayatul Kursi Recited by Sheikh Sudais",
+            "Surah Al-Ikhlas Melodious Tilawat",
+        ]
+        for title in pure_titles:
+            raw = self._create_sample_raw_video(title=title)
+            res = validate_and_normalize_video(raw, {}, excluded_keywords=excluded)
+            assert res is not None, f"Incorrectly rejected pure title: {title}"
+            assert res["title"] == title
+
 
 class TestDeduplicationAndRanking:
     def test_deduplicates_by_video_id(self):

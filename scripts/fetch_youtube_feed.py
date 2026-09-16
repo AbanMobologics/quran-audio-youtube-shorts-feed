@@ -81,6 +81,34 @@ def load_config(config_path: Path) -> dict[str, Any]:
     config.setdefault("minimumFeedSize", 30)
     config.setdefault("feedTtlHours", 24)
     config.setdefault("maxDurationSeconds", 60)
+    config.setdefault("excludedKeywords", [
+        "react",
+        "reaction",
+        "reacts",
+        "interview",
+        "vlog",
+        "podcast",
+        "challenge",
+        "prank",
+        "experiment",
+        "corrects",
+        "correcting",
+        "correction",
+        "with friends",
+        "friends",
+        "boy",
+        "kid",
+        "kids",
+        "baby",
+        "cute",
+        "street",
+        "asking",
+        "judges",
+        "funny",
+        "drama",
+        "imitating",
+        "imitate",
+    ])
 
     return config
 
@@ -443,8 +471,9 @@ def validate_and_normalize_video(
     raw_video: dict[str, Any],
     candidate_meta: dict[str, Any],
     max_duration_seconds: int = 60,
+    excluded_keywords: list[str] | None = None,
 ) -> dict[str, Any] | None:
-    """Validates video quality, privacy, embeddability, and duration constraints.
+    """Validates video quality, privacy, embeddability, duration, and content purity constraints.
 
     Returns normalized dictionary matching feed item schema, or None if rejected.
     """
@@ -475,6 +504,22 @@ def validate_and_normalize_video(
 
     if not (video_id and title and channel_id and channel_title and published_at):
         return None
+
+    # 5. Content purity check: reject non-recitation video titles (reactions, street vlogs, kids/babies, skits)
+    if excluded_keywords:
+        title_lower = title.lower()
+        for kw in excluded_keywords:
+            clean_kw = kw.strip().lower()
+            if not clean_kw:
+                continue
+            pattern = r"\b" + re.escape(clean_kw)
+            if re.search(pattern, title_lower):
+                logger.info(
+                    "Dropping non-recitation video '%s' (matched excluded keyword '%s')",
+                    title,
+                    clean_kw,
+                )
+                return None
 
     # Pick best available thumbnail URL
     thumbnails = snippet.get("thumbnails", {})
@@ -713,6 +758,7 @@ def run_pipeline(
                 raw_detail,
                 meta,
                 max_duration_seconds=config.get("maxDurationSeconds", 60),
+                excluded_keywords=config.get("excludedKeywords", []),
             )
             if normalized:
                 valid_items.append(normalized)
