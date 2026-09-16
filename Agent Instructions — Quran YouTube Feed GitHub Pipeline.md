@@ -314,12 +314,12 @@ The intended behavior is:
 
 Only GitHub Actions uses the API.
 
-Default schedule is every 3 hours.
+Default schedule is every 2 hours.
 
 That means:
 
 ```text
-8 refreshes/day
+12 refreshes/day
 ```
 
 The exact number of search queries must be configurable through:

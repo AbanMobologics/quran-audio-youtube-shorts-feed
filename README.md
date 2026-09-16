@@ -9,7 +9,7 @@ The mobile application never communicates directly with the YouTube Data API and
 ## 1. Architecture Overview
 
 ```text
-GitHub Actions Schedule (Every 3 hours)
+GitHub Actions Schedule (Every 2 hours)
                  ↓
       fetch_youtube_feed.py
                  ↓
@@ -125,7 +125,7 @@ The `data/youtube_feed.json` file adheres to a strict schema:
 
 YouTube Data API v3 has a default quota of 10,000 units per day. This pipeline is carefully engineered to operate well below this limit:
 
-1. **Scheduled Interval**: Runs every 3 hours (`0 */3 * * *`), resulting in 8 runs per day (~3,216 units/day).
+1. **Scheduled Interval**: Runs every 2 hours (`0 */2 * * *`), resulting in 12 runs per day (~3,624 units/day).
 2. **Search Discovery**: Issues targeted `search.list` calls for configured queries.
 3. **Batch Video Details**: Candidate video IDs are batched into requests of up to 50 IDs per `videos.list` call (`part=snippet,contentDetails,status`), reducing quota cost from 1 unit per video to 1 unit per 50 videos.
 4. **Android Client Independence**: Whether 100 or 1,000,000 users open the Quran app, zero YouTube API calls originate from user devices. All traffic hits GitHub Pages (or an upstream CDN).
