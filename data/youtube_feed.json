@@ -1,29 +1,9 @@
 {
   "schemaVersion": 1,
-  "feedVersion": 10,
-  "generatedAt": "2026-09-16T09:52:13Z",
-  "expiresAt": "2026-09-17T09:52:13Z",
+  "feedVersion": 11,
+  "generatedAt": "2026-09-16T10:11:21Z",
+  "expiresAt": "2026-09-17T10:11:21Z",
   "items": [
-    {
-      "videoId": "LMno_7smRTc",
-      "title": "surah|yasin|rahman|yaseen|rehman|online quran|tilawat|juma|naat|ishq|status",
-      "channelId": "UCyEGKCFlfFRKGKPHESLUD0w",
-      "channelTitle": "Captain Updates 01",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LMno_7smRTc/hqdefault.jpg",
-      "publishedAt": "2026-09-16T07:30:16Z",
-      "durationSeconds": 5,
-      "category": "surah"
-    },
-    {
-      "videoId": "dz0rgLmSIPI",
-      "title": "surah|yasin|rahman|yaseen|rehman|online quran|tilawat|juma|naat|ishq|status",
-      "channelId": "UCV65fOKp_N5q_Gq8BfOyTFw",
-      "channelTitle": "SKKhan",
-      "thumbnailUrl": "https://i.ytimg.com/vi/dz0rgLmSIPI/hqdefault.jpg",
-      "publishedAt": "2026-09-16T06:03:06Z",
-      "durationSeconds": 6,
-      "category": "surah"
-    },
     {
       "videoId": "4jPKUa4Ahco",
       "title": "Surah Al-Fath | Heart-Touching Quran Recitation 🤍 #Quran #IslamicShorts",
@@ -42,6 +22,16 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/G-WiCzyp8Tc/hqdefault.jpg",
       "publishedAt": "2026-09-14T16:50:56Z",
       "durationSeconds": 34,
+      "category": "surah"
+    },
+    {
+      "videoId": "0u64L6FDSjA",
+      "title": "Surah Al-Falaq 🤍 | Beautiful & Heart-Touching Quran Recitation#shorts",
+      "channelId": "UCXQHsNVEUP-brfqAShI2Aig",
+      "channelTitle": "QURAN RECITATION 775",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0u64L6FDSjA/hqdefault.jpg",
+      "publishedAt": "2026-09-10T13:21:18Z",
+      "durationSeconds": 28,
       "category": "surah"
     },
     {
@@ -105,6 +95,16 @@
       "category": "recitation"
     },
     {
+      "videoId": "MybLMcYbqWY",
+      "title": "Surah Al-Fatiha by Egzon Ibrahimi | Beautiful Quran Recitation finger tracking #egzonibrahimi",
+      "channelId": "UCw8n1yn_gIw97HrNugWrikw",
+      "channelTitle": "Quran24recitation",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MybLMcYbqWY/hqdefault.jpg",
+      "publishedAt": "2025-09-02T13:30:21Z",
+      "durationSeconds": 38,
+      "category": "surah"
+    },
+    {
       "videoId": "irYVOQXi0kM",
       "title": "That Slap Was On Point Though. #QuranRecitation #Islam #Allah",
       "channelId": "UCrPmMiLlKt9YPFl4uXTtYxA",
@@ -163,26 +163,6 @@
       "publishedAt": "2025-05-14T18:30:03Z",
       "durationSeconds": 15,
       "category": "ayah"
-    },
-    {
-      "videoId": "ZP25oZSLYbQ",
-      "title": "Beautiful Quran Tilawat | Peaceful Recitation for WhatsApp Status #quran #tilawat #status",
-      "channelId": "UCU-k2Qpj4xeO3P6r1nszOmg",
-      "channelTitle": "Quran Daily",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZP25oZSLYbQ/hqdefault.jpg",
-      "publishedAt": "2025-05-12T06:31:11Z",
-      "durationSeconds": 18,
-      "category": "recitation"
-    },
-    {
-      "videoId": "h9WDRQaJLho",
-      "title": "Beautiful Quran Recitation That Will Touch Your Soul🔥 #shorts #trend  #trending  #youtubeshorts",
-      "channelId": "UCoNNsFneObgFRb2WZvik6DA",
-      "channelTitle": "Jannat Qaran Recitation",
-      "thumbnailUrl": "https://i.ytimg.com/vi/h9WDRQaJLho/hqdefault.jpg",
-      "publishedAt": "2025-05-04T11:01:06Z",
-      "durationSeconds": 15,
-      "category": "recitation"
     },
     {
       "videoId": "UVR43qHAVWY",
@@ -265,6 +245,16 @@
       "category": "recitation"
     },
     {
+      "videoId": "SRTINlnoRf0",
+      "title": "Surah Muminoon Verse no:14 by Sheikh Yasser Al Dossari | Quran verses on how humans were created.",
+      "channelId": "UCJXNq17cwCFVC94X7qcpL0A",
+      "channelTitle": "Islamictalk128",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SRTINlnoRf0/hqdefault.jpg",
+      "publishedAt": "2024-12-04T09:17:19Z",
+      "durationSeconds": 31,
+      "category": "ayah"
+    },
+    {
       "videoId": "3GMGWUJjXw0",
       "title": "Most emotional 😭 Quran recitation ever!",
       "channelId": "UCPOYe3Xq3PAuptBTjMKPsig",
@@ -275,34 +265,24 @@
       "category": "recitation"
     },
     {
-      "videoId": "9DYW39T0BL0",
-      "title": "Repeat And Perfect - Guided by Shaykh Mishary @alafasy",
-      "channelId": "UCgNUOJalS_ciV5VcuSGil3Q",
-      "channelTitle": "Green Lane Masjid",
-      "thumbnailUrl": "https://i.ytimg.com/vi/9DYW39T0BL0/hqdefault.jpg",
-      "publishedAt": "2024-10-25T11:21:26Z",
-      "durationSeconds": 28,
-      "category": "recitation"
-    },
-    {
-      "videoId": "aJXQJME5zt4",
-      "title": "QURAN Recitation || Quran Whatsapp status || quran verses #quran #quranrecitation #islamicstatus",
-      "channelId": "UCBkBDMK0w2uR5Zp06uciG6Q",
-      "channelTitle": "Muhammad Usman Farooq Official",
-      "thumbnailUrl": "https://i.ytimg.com/vi/aJXQJME5zt4/hqdefault.jpg",
-      "publishedAt": "2024-10-24T06:00:01Z",
-      "durationSeconds": 20,
+      "videoId": "CzuHiF9h3TI",
+      "title": "Last ayat of Sura Al Baqara- Shaykh Sudais",
+      "channelId": "UC_pNVrfcNgdEf-HdHeo8TIA",
+      "channelTitle": "Honored Quran",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CzuHiF9h3TI/hqdefault.jpg",
+      "publishedAt": "2024-11-26T10:12:54Z",
+      "durationSeconds": 51,
       "category": "ayah"
     },
     {
-      "videoId": "6yRyfGAzJfE",
-      "title": "Qari Abdul Rahman Mossad - Quran Recitation - Beautiful Voice #shorts #quranrecitationshorts",
-      "channelId": "UCRsV6H8eHH-OJIiUqzg0Z2A",
-      "channelTitle": "Quran Recitation Shorts",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6yRyfGAzJfE/hqdefault.jpg",
-      "publishedAt": "2024-10-19T10:26:18Z",
-      "durationSeconds": 19,
-      "category": "recitation"
+      "videoId": "oEDv9RPQLTY",
+      "title": "Surah Shams ❤#sheikhsudais #viralshorts #quran #@atauldeen",
+      "channelId": "UCk9ov82E5Ieu7oKmLHEbp7Q",
+      "channelTitle": "AtaulDeen",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oEDv9RPQLTY/hqdefault.jpg",
+      "publishedAt": "2024-10-29T12:39:37Z",
+      "durationSeconds": 26,
+      "category": "surah"
     },
     {
       "videoId": "n1HM59G2pDI",
@@ -312,26 +292,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/n1HM59G2pDI/hqdefault.jpg",
       "publishedAt": "2024-10-16T02:15:38Z",
       "durationSeconds": 9,
-      "category": "recitation"
-    },
-    {
-      "videoId": "BjF0MeHPvto",
-      "title": "Quran translation WhatsAppstatus ||quran verses status #quran #ayat #youtubeshorts #ytshorts #trn",
-      "channelId": "UCIQNndJBKgQO0SAbYnmIgsg",
-      "channelTitle": "QURAN VERSAS 3.0",
-      "thumbnailUrl": "https://i.ytimg.com/vi/BjF0MeHPvto/hqdefault.jpg",
-      "publishedAt": "2024-10-15T16:00:20Z",
-      "durationSeconds": 14,
-      "category": "ayah"
-    },
-    {
-      "videoId": "Xt92HZQPGDM",
-      "title": "Abdul Rahman Mossad - Beautiful Recitation - Quran Recitation Shorts #shorts #quranrecitation",
-      "channelId": "UCRsV6H8eHH-OJIiUqzg0Z2A",
-      "channelTitle": "Quran Recitation Shorts",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Xt92HZQPGDM/hqdefault.jpg",
-      "publishedAt": "2024-09-27T14:34:38Z",
-      "durationSeconds": 60,
       "category": "recitation"
     },
     {
@@ -351,6 +311,26 @@
       "channelTitle": "Quran recitation Sameer55.10",
       "thumbnailUrl": "https://i.ytimg.com/vi/HKIRLSmqg0k/hqdefault.jpg",
       "publishedAt": "2024-09-16T16:28:17Z",
+      "durationSeconds": 12,
+      "category": "recitation"
+    },
+    {
+      "videoId": "QICgs-IqxbY",
+      "title": "Surah Al-Bayyina | سورة البينة | Sheikh Yasser ad-Dussary #islamicshorts #foryou #quranrecitation",
+      "channelId": "UC0_DqQsIAE6ZtZ6YVKnJLSQ",
+      "channelTitle": "Truth Ahead",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QICgs-IqxbY/hqdefault.jpg",
+      "publishedAt": "2024-09-15T13:09:21Z",
+      "durationSeconds": 55,
+      "category": "surah"
+    },
+    {
+      "videoId": "CLdHmrs7pS4",
+      "title": "quran recitation #africa #quran #recitation #duet #explore #youtubeshorts #allah",
+      "channelId": "UCM4QQPUddKJxFzDnrUnwX6A",
+      "channelTitle": "Humdard Islamic Teach",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CLdHmrs7pS4/hqdefault.jpg",
+      "publishedAt": "2024-09-13T01:34:06Z",
       "durationSeconds": 12,
       "category": "recitation"
     },
@@ -375,6 +355,16 @@
       "category": "ayah"
     },
     {
+      "videoId": "BTn-gDGMEEg",
+      "title": "Surah Muminoon 84-87 by Sheikh Yasser Al Dossari | Qul limanil arzu | Best recitation ever!",
+      "channelId": "UCJXNq17cwCFVC94X7qcpL0A",
+      "channelTitle": "Islamictalk128",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BTn-gDGMEEg/hqdefault.jpg",
+      "publishedAt": "2024-04-27T16:23:31Z",
+      "durationSeconds": 22,
+      "category": "surah"
+    },
+    {
       "videoId": "91WF4qvv6YY",
       "title": "Quran recitation ~ Surah Muminoon ~ Yasser Al Dosari #quran #islam",
       "channelId": "UCYlmJziRh-pBwiAtbt6-tzg",
@@ -385,14 +375,14 @@
       "category": "surah"
     },
     {
-      "videoId": "NNMI0Q3K4CY",
-      "title": "Every soul will taste death | Abdul Rahman Mossad | MUST LISTEN #quran #islam",
-      "channelId": "UCfsIboKNlov5bnl3jRLuQhQ",
-      "channelTitle": "Quranic Wisdom",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NNMI0Q3K4CY/hqdefault.jpg",
-      "publishedAt": "2023-12-27T11:00:38Z",
-      "durationSeconds": 39,
-      "category": "recitation"
+      "videoId": "xnDS6xfKNn8",
+      "title": "❤️Emotional Quran Recitation of Surah Al Qiyamah - Alafasy - Mishary Rashid Alafasy  #islam",
+      "channelId": "UChrJYZhYDjNlCz7LIt0WzQw",
+      "channelTitle": "The holy DVD",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xnDS6xfKNn8/hqdefault.jpg",
+      "publishedAt": "2023-12-28T15:10:23Z",
+      "durationSeconds": 55,
+      "category": "surah"
     },
     {
       "videoId": "AcKxwADMDQk",
@@ -405,34 +395,14 @@
       "category": "ayah"
     },
     {
-      "videoId": "913CUdzyuwo",
-      "title": "Beautiful Quran Recitation by Umair Shamim #quran #quranrecitation #shorts #explore #quranicvibes",
-      "channelId": "UCjwAR53V3KECD5cn1CnEP2A",
-      "channelTitle": "SpiritualSafar",
-      "thumbnailUrl": "https://i.ytimg.com/vi/913CUdzyuwo/hqdefault.jpg",
-      "publishedAt": "2023-11-07T14:50:18Z",
-      "durationSeconds": 25,
-      "category": "recitation"
-    },
-    {
-      "videoId": "ah0CWhI5tHk",
-      "title": "cute baby boy reciting Quran | cute baby boy #islamicshorts #makkahmadinah #islamicstatus #shorts",
-      "channelId": "UCs-p5YZnNwWDlL3FavRCe5g",
-      "channelTitle": "life In Saudi Arabia 🇸🇦",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ah0CWhI5tHk/hqdefault.jpg",
-      "publishedAt": "2023-10-05T07:25:14Z",
-      "durationSeconds": 6,
-      "category": "recitation"
-    },
-    {
-      "videoId": "N9g7wQaeVkw",
-      "title": "Surah Duha (1-9) #quran #shorts",
-      "channelId": "UChWqyAMCgLfgBN9sxKdAfnQ",
-      "channelTitle": "Arabic Soul",
-      "thumbnailUrl": "https://i.ytimg.com/vi/N9g7wQaeVkw/hqdefault.jpg",
-      "publishedAt": "2023-08-26T21:30:29Z",
-      "durationSeconds": 54,
-      "category": "surah"
+      "videoId": "jyinD1qtGhk",
+      "title": "AYATUL KURSI - Egzon Ibrahimi beautiful Quran Recitation ❤️ #ayatulkursi",
+      "channelId": "UCX6Lwgwx8Zf2T79T4ClVnxA",
+      "channelTitle": "EgzonIbrahimiOfficial",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jyinD1qtGhk/hqdefault.jpg",
+      "publishedAt": "2023-09-27T16:08:55Z",
+      "durationSeconds": 56,
+      "category": "ayah"
     },
     {
       "videoId": "HQzu8mdlI_g",
@@ -465,22 +435,12 @@
       "category": "recitation"
     },
     {
-      "videoId": "fCXl2AKJeWE",
-      "title": "Indeed Hellfire Is Waiting For... || Soul Stirring Quran Recitation By Abdul Rahman Mossad",
-      "channelId": "UCpA-z3pELnqf2caXeaByu9Q",
-      "channelTitle": "The final Truth",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fCXl2AKJeWE/hqdefault.jpg",
-      "publishedAt": "2023-07-09T12:00:35Z",
-      "durationSeconds": 48,
-      "category": "recitation"
-    },
-    {
-      "videoId": "99NZSfH2Adk",
-      "title": "Heart Touching Beautiful Quran Recitation By Abdul Rahman Mossad || Quran Recitation Status",
-      "channelId": "UCpA-z3pELnqf2caXeaByu9Q",
-      "channelTitle": "The final Truth",
-      "thumbnailUrl": "https://i.ytimg.com/vi/99NZSfH2Adk/hqdefault.jpg",
-      "publishedAt": "2023-06-24T10:35:22Z",
+      "videoId": "X3jb2mZl82k",
+      "title": "Chunkz beautiful voice reciting Quran 😍",
+      "channelId": "UCfbTEzxjOhwYL1MTK_bkDiw",
+      "channelTitle": "Dollar Butterfly",
+      "thumbnailUrl": "https://i.ytimg.com/vi/X3jb2mZl82k/hqdefault.jpg",
+      "publishedAt": "2023-06-19T14:11:15Z",
       "durationSeconds": 21,
       "category": "recitation"
     },
@@ -505,16 +465,6 @@
       "category": "ayah"
     },
     {
-      "videoId": "pgbK2r0xQbc",
-      "title": "Tilawat Quran| Best tilawat with beautiful voice",
-      "channelId": "UCTOj8pfOnHD4aQGWIqw24qg",
-      "channelTitle": "MR Islamic Video",
-      "thumbnailUrl": "https://i.ytimg.com/vi/pgbK2r0xQbc/hqdefault.jpg",
-      "publishedAt": "2023-06-04T07:28:27Z",
-      "durationSeconds": 25,
-      "category": "recitation"
-    },
-    {
       "videoId": "CVasVHgFvRE",
       "title": "🔥Surah Ala: Yasser Al Dosari-Sudais/Al Muaiqly-Al Mossad-Ali Jaber-Shuraim-#quran @TheholyDVD",
       "channelId": "UChrJYZhYDjNlCz7LIt0WzQw",
@@ -525,24 +475,14 @@
       "category": "surah"
     },
     {
-      "videoId": "5nwdIR1F0Ww",
-      "title": "Quran Recitation #status #quran #recitation #tilawat #viral #islamic #quranrecitation",
-      "channelId": "UC1hOUA_g7RhWqk7vTxjqIAg",
-      "channelTitle": "Tilawat e Quran e Pak",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5nwdIR1F0Ww/hqdefault.jpg",
-      "publishedAt": "2023-04-20T19:55:16Z",
-      "durationSeconds": 11,
-      "category": "recitation"
-    },
-    {
-      "videoId": "6JmAOrz5Fhk",
-      "title": "Surah Waqiah | verses 68-70 | Quran Urdu Translation | #quranurdutranslation ₹ #quran #allah #waqiah",
-      "channelId": "UC6bsbEgLWej-xCkd5pTK2YQ",
-      "channelTitle": "No Sects But Muslim",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6JmAOrz5Fhk/hqdefault.jpg",
-      "publishedAt": "2023-04-19T17:35:36Z",
-      "durationSeconds": 12,
-      "category": "ayah"
+      "videoId": "LBcugZpkhXo",
+      "title": "SURAH FATIHA BY SHEIKH YASIR",
+      "channelId": "UCsZpl24UG0ITDLCMVhURwQg",
+      "channelTitle": "YASIR AL DOSARI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LBcugZpkhXo/hqdefault.jpg",
+      "publishedAt": "2023-05-04T17:40:14Z",
+      "durationSeconds": 37,
+      "category": "surah"
     },
     {
       "videoId": "GdF0L9gN3Y8",
@@ -555,13 +495,13 @@
       "category": "recitation"
     },
     {
-      "videoId": "ts47XO1S8LY",
-      "title": "Beautiful Recitation of Quran | Innal muslimina wal muslimati #status #quran #recitation #tilawat",
-      "channelId": "UC1hOUA_g7RhWqk7vTxjqIAg",
-      "channelTitle": "Tilawat e Quran e Pak",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ts47XO1S8LY/hqdefault.jpg",
-      "publishedAt": "2023-04-05T08:53:39Z",
-      "durationSeconds": 49,
+      "videoId": "5jH5pcHA8v4",
+      "title": "Most Emotional Moment | Sheikh Mishary Rashid Al Afasy #shorts #Islam #Quran #Allah",
+      "channelId": "UCFIPSaep5z2aIZIERZc7xbw",
+      "channelTitle": "Deen Al Islam",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5jH5pcHA8v4/hqdefault.jpg",
+      "publishedAt": "2023-04-06T21:00:06Z",
+      "durationSeconds": 26,
       "category": "recitation"
     },
     {
@@ -573,16 +513,6 @@
       "publishedAt": "2023-03-17T13:42:07Z",
       "durationSeconds": 55,
       "category": "recitation"
-    },
-    {
-      "videoId": "_8KcA0F8GHg",
-      "title": "Surah Al-'Asr | Quran recitation whatsapp status | Quran tilawat",
-      "channelId": "UC1QNGzwUJ8x6ynZDAXZO_og",
-      "channelTitle": "SMF CREATION",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_8KcA0F8GHg/hqdefault.jpg",
-      "publishedAt": "2023-03-12T16:57:06Z",
-      "durationSeconds": 22,
-      "category": "surah"
     },
     {
       "videoId": "KpvgC9_dp-k",
@@ -605,24 +535,14 @@
       "category": "recitation"
     },
     {
-      "videoId": "bWzH7npIv0Y",
-      "title": "Emotional Quran ayat whatsapp status|Quran translation in Urdu|Quran Tarjuma|@IQRAALQURANKARIM",
-      "channelId": "UC0_P4t5mNTe8Unvp2lOcWYw",
-      "channelTitle": "𝐇𝐚𝐦𝐦𝐚𝐝 𝐖𝐫𝐢𝐭𝐞𝐬",
-      "thumbnailUrl": "https://i.ytimg.com/vi/bWzH7npIv0Y/hqdefault.jpg",
-      "publishedAt": "2023-01-24T02:30:25Z",
-      "durationSeconds": 30,
-      "category": "ayah"
-    },
-    {
-      "videoId": "zcrx-CBDx4g",
-      "title": "Surah Al-Kahf | Ayah 1-2 | Islam Sobhi | Quran WhatsApp status #quran #shorts #recitation #islam",
-      "channelId": "UC61bBKbLIeo9f2Uf8Zy04vg",
-      "channelTitle": "The Complete Quran",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zcrx-CBDx4g/hqdefault.jpg",
-      "publishedAt": "2022-09-25T16:35:30Z",
-      "durationSeconds": 30,
-      "category": "ayah"
+      "videoId": "uahDRTw1Jv0",
+      "title": "Kaba Imam 🕋Surah Mulk Abdul Rahman Sudais #alight #shorts #md",
+      "channelId": "UC3CpeDET5BMklw6D5ZGFfoQ",
+      "channelTitle": "MD Shahadat Hossain",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uahDRTw1Jv0/hqdefault.jpg",
+      "publishedAt": "2022-12-05T08:38:44Z",
+      "durationSeconds": 25,
+      "category": "surah"
     },
     {
       "videoId": "nhEUfs4rbUQ",
@@ -645,26 +565,6 @@
       "category": "surah"
     },
     {
-      "videoId": "SRWEubTfbc0",
-      "title": "beautiful quran recitation ❤",
-      "channelId": "UC2zPGWCvM50lDydbcM35shQ",
-      "channelTitle": "Qur'an Universe",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SRWEubTfbc0/hqdefault.jpg",
-      "publishedAt": "2022-08-13T14:57:27Z",
-      "durationSeconds": 17,
-      "category": "recitation"
-    },
-    {
-      "videoId": "B1HPkkIYpZg",
-      "title": "Abdul Rahman Mossad | Quran Tilawat status | English Quran | Beautiful Quran recitation 2022",
-      "channelId": "UCw9mrHtTOa1BUewxjx6f5Ew",
-      "channelTitle": "Way 2 Quran",
-      "thumbnailUrl": "https://i.ytimg.com/vi/B1HPkkIYpZg/hqdefault.jpg",
-      "publishedAt": "2022-07-19T16:36:23Z",
-      "durationSeconds": 39,
-      "category": "recitation"
-    },
-    {
       "videoId": "uzR81TUHV4o",
       "title": "Surah Al Falaq ( The Daybreak ) | Mishray Rashid Alafasy | The Holy Quran",
       "channelId": "UCRPBRi2B2KiRviC9JQ3ADeQ",
@@ -685,56 +585,6 @@
       "category": "surah"
     },
     {
-      "videoId": "q0Shwz7sgOs",
-      "title": "💕Heart Touching  Quran Status || Quran Urdu translation WhatsApp status #tiktok #quran #love",
-      "channelId": "UC_vN8G6Q7TMjgwzVkfHIfdg",
-      "channelTitle": "Quran Voice",
-      "thumbnailUrl": "https://i.ytimg.com/vi/q0Shwz7sgOs/hqdefault.jpg",
-      "publishedAt": "2022-06-06T06:54:15Z",
-      "durationSeconds": 10,
-      "category": "recitation"
-    },
-    {
-      "videoId": "FnY_hVLtTGU",
-      "title": "Raad Al kurdi | Quran Tilawat | Islamic WhatsApp status | Beautiful Quran recitation 2022",
-      "channelId": "UCw9mrHtTOa1BUewxjx6f5Ew",
-      "channelTitle": "Way 2 Quran",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FnY_hVLtTGU/hqdefault.jpg",
-      "publishedAt": "2022-04-01T15:15:44Z",
-      "durationSeconds": 30,
-      "category": "recitation"
-    },
-    {
-      "videoId": "MfP4UMjUvns",
-      "title": "Raad Al kurdi | Quran Tilawat | Islamic WhatsApp status | Beautiful Quran recitation 2022",
-      "channelId": "UCw9mrHtTOa1BUewxjx6f5Ew",
-      "channelTitle": "Way 2 Quran",
-      "thumbnailUrl": "https://i.ytimg.com/vi/MfP4UMjUvns/hqdefault.jpg",
-      "publishedAt": "2022-03-20T13:30:05Z",
-      "durationSeconds": 56,
-      "category": "recitation"
-    },
-    {
-      "videoId": "_jMKtqhHO2o",
-      "title": "Surah Maryam Sheikh Yasser Al Dosari Quran Recitation Whatsapp Status English Translation",
-      "channelId": "UC95JN0in8DST18UBruz-AZw",
-      "channelTitle": "Rational Beilever.1887",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_jMKtqhHO2o/hqdefault.jpg",
-      "publishedAt": "2022-03-09T08:34:42Z",
-      "durationSeconds": 12,
-      "category": "surah"
-    },
-    {
-      "videoId": "8wZS3mTPCfg",
-      "title": "Emotional Quran translation whatsapp status| Quran translation in Urdu|",
-      "channelId": "UCm1DvY2rLHORh5tzkB-bL1Q",
-      "channelTitle": "Global Link Pvt Ltd",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8wZS3mTPCfg/hqdefault.jpg",
-      "publishedAt": "2022-02-21T05:44:20Z",
-      "durationSeconds": 42,
-      "category": "recitation"
-    },
-    {
       "videoId": "A4dYgziFpDw",
       "title": "Ayatul Kursi Recited by @Islam Sobhi in Heart Soothing Voice #Shorts #quran #best #islam #peaceful",
       "channelId": "UCy_YDE85IigKTW9WUUeHhIA",
@@ -745,53 +595,13 @@
       "category": "ayah"
     },
     {
-      "videoId": "8n6-C7E7wLE",
-      "title": "Mishary rashid alafasy | Quran Tilawat | Islamic WhatsApp status | Beautiful Quran recitation 2022",
-      "channelId": "UCw9mrHtTOa1BUewxjx6f5Ew",
-      "channelTitle": "Way 2 Quran",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8n6-C7E7wLE/hqdefault.jpg",
-      "publishedAt": "2022-02-10T15:30:00Z",
-      "durationSeconds": 32,
-      "category": "recitation"
-    },
-    {
-      "videoId": "iQk7BnQeGe4",
-      "title": "Par Quran Kehta Hai Status // #shorts // Islamic Status // Urdu Thoughts Status",
-      "channelId": "UCf_LYsXMZ9cOp2wT2fST-ww",
-      "channelTitle": "Urdu___Thoughts",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iQk7BnQeGe4/hqdefault.jpg",
-      "publishedAt": "2021-12-28T08:54:59Z",
-      "durationSeconds": 14,
-      "category": "recitation"
-    },
-    {
-      "videoId": "4P0cIwkIlEY",
-      "title": "Quran recitation whatsapp status status",
-      "channelId": "UC8p51oLn3-HtIWvXqi691CA",
-      "channelTitle": "QURAN IN URDU",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4P0cIwkIlEY/hqdefault.jpg",
-      "publishedAt": "2021-10-31T06:45:04Z",
-      "durationSeconds": 48,
-      "category": "recitation"
-    },
-    {
-      "videoId": "XXXWG7stVdw",
-      "title": "Beautiful Quran recitation for WhatsApp Status |Quran Status with English subtitles|Quran Recitation",
-      "channelId": "UC8nMf0RA6_vtVNty5vJlAmg",
-      "channelTitle": "AllMix",
-      "thumbnailUrl": "https://i.ytimg.com/vi/XXXWG7stVdw/hqdefault.jpg",
-      "publishedAt": "2021-09-08T16:05:55Z",
+      "videoId": "wF6XhJgqPBc",
+      "title": "Sheikh Noreen Muhammad Siddiq Heart Touching Quran Recitation | Sheikh Noreen Muhammad Siddiq#shorts",
+      "channelId": "UCiEZzOqvsrOLTNbhNdpGhyg",
+      "channelTitle": "Voice of ilm",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wF6XhJgqPBc/hqdefault.jpg",
+      "publishedAt": "2021-10-20T12:45:30Z",
       "durationSeconds": 28,
-      "category": "recitation"
-    },
-    {
-      "videoId": "SQtK2cVtNN4",
-      "title": "Ahmad al Nufais | Quran Tilawat | Islamic whatsapp status | English quran | Beautiful recitation",
-      "channelId": "UCw9mrHtTOa1BUewxjx6f5Ew",
-      "channelTitle": "Way 2 Quran",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SQtK2cVtNN4/hqdefault.jpg",
-      "publishedAt": "2021-09-04T15:30:12Z",
-      "durationSeconds": 29,
       "category": "recitation"
     },
     {
@@ -833,26 +643,6 @@
       "publishedAt": "2021-02-12T16:25:03Z",
       "durationSeconds": 59,
       "category": "surah"
-    },
-    {
-      "videoId": "UYQKE5BKhHE",
-      "title": "Astagfirullah | Abdul Rahman Mossad Beautiful Quran Recitation Whatsapp Status",
-      "channelId": "UCq0fL33VtmPPCRXk4fFm2sw",
-      "channelTitle": "Quran Bytes",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UYQKE5BKhHE/hqdefault.jpg",
-      "publishedAt": "2021-01-02T11:38:11Z",
-      "durationSeconds": 15,
-      "category": "recitation"
-    },
-    {
-      "videoId": "UpQP4ScVvpE",
-      "title": "Jumma Status Most Beautiful Tilawat Quran Status",
-      "channelId": "UCbwv_r5p74AuHc_-8TxB4Vg",
-      "channelTitle": "Talha Ibn Malicck",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UpQP4ScVvpE/hqdefault.jpg",
-      "publishedAt": "2020-12-27T12:12:44Z",
-      "durationSeconds": 28,
-      "category": "recitation"
     },
     {
       "videoId": "fOe9MWU2nOg",
