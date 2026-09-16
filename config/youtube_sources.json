@@ -1,11 +1,12 @@
 {
   "queries": [
-    "heart touching | emotional quran recitation",
+    "quran recitation shorts",
+    "beautiful quran recitation",
     "Abdul Basit | Sudais | Abdul Rahman Mossad | Yasser Al Dosari | Mishary Alafasy quran"
   ],
   "channels": [],
   "playlists": [],
-  "maxResultsPerQuery": 50,
+  "maxResultsPerQuery": 40,
   "targetFeedSize": 100,
   "minimumFeedSize": 30,
   "feedTtlHours": 24,
