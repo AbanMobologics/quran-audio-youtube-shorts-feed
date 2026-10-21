@@ -1,27 +1,87 @@
 {
   "schemaVersion": 1,
-  "feedVersion": 171,
-  "generatedAt": "2026-10-20T22:54:21Z",
-  "expiresAt": "2026-10-21T22:54:21Z",
+  "feedVersion": 172,
+  "generatedAt": "2026-10-21T03:04:06Z",
+  "expiresAt": "2026-10-22T03:04:06Z",
   "items": [
     {
-      "videoId": "Qw5rhgd1JfI",
-      "title": "قل لمن الارض ومن فيهآ ان كنتم تعلمون، سورة المؤمنون #quran #tilawat #doa #islam #shorts",
-      "channelId": "UCyM67WVFoxHns0AHaioBy3g",
-      "channelTitle": "Amalan Akhirat Kita",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Qw5rhgd1JfI/hqdefault.jpg",
-      "publishedAt": "2026-10-20T22:16:16Z",
+      "videoId": "2Q8vICCHXLA",
+      "title": "Surah Al-Falaq | سورة الفلق | Beautiful Quran Recitation 🤲",
+      "channelId": "UCWSlsLJrQ0__vW6oTR-phTg",
+      "channelTitle": "Come To Read The Quran",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2Q8vICCHXLA/hqdefault.jpg",
+      "publishedAt": "2026-10-21T01:34:06Z",
+      "durationSeconds": 28,
+      "category": "surah"
+    },
+    {
+      "videoId": "EynlFMrEPsQ",
+      "title": "ALLAHUMMA RABBANA ❤️🤲 DUA 🤲❤️ – Egzon Ibrahimi Beautiful Quran Recitation #egzonibrahimi #shorts",
+      "channelId": "UCxbONtiRnCjRTMkYkaIvCDA",
+      "channelTitle": "Ayat-e-Noor",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EynlFMrEPsQ/hqdefault.jpg",
+      "publishedAt": "2026-10-21T01:30:32Z",
+      "durationSeconds": 22,
+      "category": "recitation"
+    },
+    {
+      "videoId": "qfzcsYbO3-M",
+      "title": "tilawat e quran surah al fatiha #trending #tilawat #quran",
+      "channelId": "UC91oS91J6O3zCsSSi_Ufqcg",
+      "channelTitle": "Abdul Gafoor RAZA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qfzcsYbO3-M/hqdefault.jpg",
+      "publishedAt": "2026-10-21T01:12:35Z",
+      "durationSeconds": 34,
+      "category": "surah"
+    },
+    {
+      "videoId": "onKE5RJba9w",
+      "title": "Surah Al-Fatiha Beautiful Recitation | سورة الفاتحة | Quran Tilawat | Islamic Learning Studio",
+      "channelId": "UCMVk3ZZIw0UUtmyD0jter9A",
+      "channelTitle": "Islamic learning studio5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/onKE5RJba9w/hqdefault.jpg",
+      "publishedAt": "2026-10-21T01:09:42Z",
       "durationSeconds": 36,
       "category": "surah"
     },
     {
-      "videoId": "sYmK0jaSIOk",
-      "title": "Surah Al-Qadr 🤍-Most Beautiful Quran Recitation -Egzon Ibrahimi #egzonibrahimi #shorts #quran",
-      "channelId": "UCfsS5kUYiEXRo9BtZi3J6dw",
-      "channelTitle": "Quran TV",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sYmK0jaSIOk/hqdefault.jpg",
-      "publishedAt": "2026-10-20T20:40:01Z",
-      "durationSeconds": 41,
+      "videoId": "kT6v--nAQGo",
+      "title": "Beautiful Quran Recitation 🤲❤️ | Alhamdulillahi Rabbil Aalameen | Surah Al-Fatihah #Shorts #dua",
+      "channelId": "UCKMb0VDk-FwELr3AbPkhitg",
+      "channelTitle": "Islamic Galary 03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kT6v--nAQGo/hqdefault.jpg",
+      "publishedAt": "2026-10-21T00:30:35Z",
+      "durationSeconds": 18,
+      "category": "surah"
+    },
+    {
+      "videoId": "Rn9B6d9BaLQ",
+      "title": "Surah Al Falaq ❤️ | Beautiful Quran Recitation | Protection From Evil #Shorts",
+      "channelId": "UCFSjzidS8m2QiWuzQyNlRVA",
+      "channelTitle": "Ambiya TV",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rn9B6d9BaLQ/hqdefault.jpg",
+      "publishedAt": "2026-10-21T00:00:24Z",
+      "durationSeconds": 29,
+      "category": "surah"
+    },
+    {
+      "videoId": "CAam265fAo0",
+      "title": "Surah An Naas | Beautiful Quran Recitation ❤️ | दिल को सुकून देने वाली तिलावत | Islamic Rah",
+      "channelId": "UCROWZbGMN-znnmBNOL-Pnpg",
+      "channelTitle": "ISLAMIC RAAH 11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CAam265fAo0/hqdefault.jpg",
+      "publishedAt": "2026-10-20T23:30:28Z",
+      "durationSeconds": 21,
+      "category": "surah"
+    },
+    {
+      "videoId": "onnxhhIiprU",
+      "title": "beautiful quran recitation of surah al falaq #quran #quranrecitation #surahfalaq",
+      "channelId": "UC7G7naFUXMHdDD94pCBsazQ",
+      "channelTitle": "My world",
+      "thumbnailUrl": "https://i.ytimg.com/vi/onnxhhIiprU/hqdefault.jpg",
+      "publishedAt": "2026-10-20T21:36:26Z",
+      "durationSeconds": 33,
       "category": "surah"
     },
     {
@@ -65,16 +125,6 @@
       "category": "surah"
     },
     {
-      "videoId": "ZdUPBgV_bP4",
-      "title": "🌙 Surah Al-Fatihah | Beautiful Quran Recitation 🤍 | سورة الفاتحة #QuranRecitation #AlFatiha",
-      "channelId": "UCMtWvp0qEPf1xP8aMY3069w",
-      "channelTitle": "kawsar",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZdUPBgV_bP4/hqdefault.jpg",
-      "publishedAt": "2026-10-20T19:10:10Z",
-      "durationSeconds": 41,
-      "category": "surah"
-    },
-    {
       "videoId": "KRr0hmh_F50",
       "title": "surah al ahzab ❤️❤️#তিলাওয়াত #tilawat #beautiful #nice",
       "channelId": "UC-w0S5CDUmvbZMtF8LxlPJw",
@@ -95,14 +145,14 @@
       "category": "surah"
     },
     {
-      "videoId": "iy17X7JvO9s",
-      "title": "SubhanAllah! His Voice Is So Beautiful ❤️🤲 | Beautiful Quran Recitation#BeautifulQuranRecitation",
-      "channelId": "UC0oXth2fkN0dRIFnk2Typ5w",
-      "channelTitle": "Ruang Uki",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iy17X7JvO9s/hqdefault.jpg",
-      "publishedAt": "2026-10-20T14:46:10Z",
-      "durationSeconds": 29,
-      "category": "recitation"
+      "videoId": "4F6-lEnF9lc",
+      "title": "Surah Al-Fatiha ❤️ | سورة الفاتحة | Beautiful Quran Recitation 🤲 | Heart Touching Tilawat #Shorts",
+      "channelId": "UCATnkZulRjR-qvCMYOoI70A",
+      "channelTitle": "PeerMdShah268",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4F6-lEnF9lc/hqdefault.jpg",
+      "publishedAt": "2026-10-20T14:49:27Z",
+      "durationSeconds": 33,
+      "category": "surah"
     },
     {
       "videoId": "gYNMMJNq3m8",
@@ -125,16 +175,6 @@
       "category": "surah"
     },
     {
-      "videoId": "j2K2Y9kZQSQ",
-      "title": "Ayatul Kursi | Beautiful Quran Recitation | Ayat Al Kursi Full | آية الكرسي | Quran Tilawat #trend",
-      "channelId": "UC2K5qpVVZqsT1iU1IoTjTsw",
-      "channelTitle": "RANG E RAZA BANGALORE OFFICIAL",
-      "thumbnailUrl": "https://i.ytimg.com/vi/j2K2Y9kZQSQ/hqdefault.jpg",
-      "publishedAt": "2026-10-20T14:20:00Z",
-      "durationSeconds": 58,
-      "category": "ayah"
-    },
-    {
       "videoId": "n7sP3tmxubs",
       "title": "surah|yasin|rahman|yaseen|rehman|online quran|tilawat|juma|naat|ishq|status",
       "channelId": "UC5RTvYk3qv3k4YpmcnaMo4Q",
@@ -143,6 +183,16 @@
       "publishedAt": "2026-10-20T14:00:31Z",
       "durationSeconds": 6,
       "category": "surah"
+    },
+    {
+      "videoId": "IoB2_GgKswU",
+      "title": "Masjid Al Haram Makka quran tilawat by Sheikh Abdur Rahman Sudais. 🕋",
+      "channelId": "UC7a6wHOM8MfLw32SEWeXNAw",
+      "channelTitle": "☆Makkah Madina view☆",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IoB2_GgKswU/hqdefault.jpg",
+      "publishedAt": "2026-10-20T13:50:21Z",
+      "durationSeconds": 35,
+      "category": "recitation"
     },
     {
       "videoId": "ZA0t0iiJfT8",
@@ -165,16 +215,6 @@
       "category": "surah"
     },
     {
-      "videoId": "smSn5fCZHug",
-      "title": "Last 3 Ayat of Surah Al-Hashr 🤲❤️ | Beautiful Quran Recitation #Shorts",
-      "channelId": "UC2qnPGzVTIvUMmvNZ58wNLA",
-      "channelTitle": "Quran Recitation Station",
-      "thumbnailUrl": "https://i.ytimg.com/vi/smSn5fCZHug/hqdefault.jpg",
-      "publishedAt": "2026-10-20T13:30:13Z",
-      "durationSeconds": 57,
-      "category": "ayah"
-    },
-    {
       "videoId": "LkoxNkoy3pY",
       "title": "SURAH AL - FATIHAH ❤️💫 egzonibrahimi #viral #islamicvideo #tilawat",
       "channelId": "UCsmV4sf78JKERRITupdJhqw",
@@ -192,16 +232,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/-R1ebDLuyvI/hqdefault.jpg",
       "publishedAt": "2026-10-20T13:20:20Z",
       "durationSeconds": 26,
-      "category": "surah"
-    },
-    {
-      "videoId": "Zf_eDVUZWQ4",
-      "title": "Surah Ash-Sharh ❤️🤲| Alam Nashrah | Beautiful Quran Recitation #SurahAshSharh#Shorts#QuranRecitation",
-      "channelId": "UC3HcOnMjc8UHY23inpg_gZg",
-      "channelTitle": "Noor-E-Quraan",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Zf_eDVUZWQ4/hqdefault.jpg",
-      "publishedAt": "2026-10-20T13:18:23Z",
-      "durationSeconds": 35,
       "category": "surah"
     },
     {
@@ -235,16 +265,6 @@
       "category": "ayah"
     },
     {
-      "videoId": "T46EdRe6wtI",
-      "title": "Muroja'ah Quran Surah Luqman Kak Yukiko #quran #tilawat #dakwah #doa #islam #shorts",
-      "channelId": "UCyM67WVFoxHns0AHaioBy3g",
-      "channelTitle": "Amalan Akhirat Kita",
-      "thumbnailUrl": "https://i.ytimg.com/vi/T46EdRe6wtI/hqdefault.jpg",
-      "publishedAt": "2026-10-20T12:51:33Z",
-      "durationSeconds": 37,
-      "category": "surah"
-    },
-    {
       "videoId": "dEymX4NYxc0",
       "title": "Surah Al-Kafirun ❤️ Most Beautiful Quran Recitation | Egzon Ibrahimi #shorts #quran",
       "channelId": "UCFF-oe2FvKXbWZAhk3ATI8w",
@@ -275,23 +295,13 @@
       "category": "surah"
     },
     {
-      "videoId": "vGrha6RpPtY",
-      "title": "🤲Surah Al-Fatihah سورۃ الفاتحہ 🤍 Beautiful Quran Recitation #egzonibrahimi #surahfatihah #quran",
-      "channelId": "UCZxpiGXZouHMytShEAz6MwQ",
-      "channelTitle": "RECITE ROMI",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vGrha6RpPtY/hqdefault.jpg",
-      "publishedAt": "2026-10-20T11:00:36Z",
-      "durationSeconds": 34,
-      "category": "surah"
-    },
-    {
-      "videoId": "Fzug4VOtOws",
-      "title": "Surah Al-Ikhlas | Egzon Ibrahimi 🤍🕋 | Beautiful Quran Recitation #Shorts",
-      "channelId": "UCFjdYFKnmHa_5eQ_DCbvlLA",
-      "channelTitle": "Tahsin Chy",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Fzug4VOtOws/hqdefault.jpg",
-      "publishedAt": "2026-10-20T10:00:31Z",
-      "durationSeconds": 27,
+      "videoId": "W9Mr4moMX5Y",
+      "title": "Surah Fatiha | Sheikh Abdul Rahman Al-Sudais. #quran #sudais #tilawat",
+      "channelId": "UCLEbDuvXQqXHDasXpjhozQA",
+      "channelTitle": "Sharif With Haramain",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W9Mr4moMX5Y/hqdefault.jpg",
+      "publishedAt": "2026-10-20T09:00:20Z",
+      "durationSeconds": 37,
       "category": "surah"
     },
     {
@@ -315,13 +325,13 @@
       "category": "recitation"
     },
     {
-      "videoId": "zWS5J7Syop4",
-      "title": "#quran #quranurdutranslation #islam #trending #shorts #tilawat #urduquran #translation #bayan #surah",
-      "channelId": "UCPMns7aK2GmbvZ8NvwiboYQ",
-      "channelTitle": "Quran In Urdu",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zWS5J7Syop4/hqdefault.jpg",
-      "publishedAt": "2026-10-20T03:29:43Z",
-      "durationSeconds": 45,
+      "videoId": "n4TZY-2s5U0",
+      "title": "Surah AL-FATIHAH 📖🌱🤲 | Quran Recitation–Egzon Ibrahimi | سورة الفاتحة",
+      "channelId": "UCmrOiQGT7CesxJWB8irVn6g",
+      "channelTitle": "aitreeverse",
+      "thumbnailUrl": "https://i.ytimg.com/vi/n4TZY-2s5U0/hqdefault.jpg",
+      "publishedAt": "2026-10-20T04:41:25Z",
+      "durationSeconds": 21,
       "category": "surah"
     },
     {
@@ -332,16 +342,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/53tj141ZqKE/hqdefault.jpg",
       "publishedAt": "2026-10-20T02:54:54Z",
       "durationSeconds": 5,
-      "category": "recitation"
-    },
-    {
-      "videoId": "rWPRCrDRWDY",
-      "title": "ALLAHUMMA RABBANA DUA 🤲✨ | Egzon Ibrahimi Beautiful Quran Recitation ❤️ #egzonibrahimi #shorts #dua",
-      "channelId": "UCFF-oe2FvKXbWZAhk3ATI8w",
-      "channelTitle": "Islamic video i.h",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rWPRCrDRWDY/hqdefault.jpg",
-      "publishedAt": "2026-10-20T02:45:22Z",
-      "durationSeconds": 22,
       "category": "recitation"
     },
     {
@@ -405,6 +405,16 @@
       "category": "recitation"
     },
     {
+      "videoId": "7zuwUAvsixc",
+      "title": "🕌 Ayatul Kursi ❤️ Beautiful Quran Recitation by Egzon Ibrahimi 🤍✨ #AyatulKursi #Quran #shorts",
+      "channelId": "UCFF-oe2FvKXbWZAhk3ATI8w",
+      "channelTitle": "Islamic video i.h",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7zuwUAvsixc/hqdefault.jpg",
+      "publishedAt": "2026-10-19T12:00:36Z",
+      "durationSeconds": 50,
+      "category": "ayah"
+    },
+    {
       "videoId": "A0bpAQtIfEM",
       "title": "Surah Al-Fatiha | سورة الفاتحة | Beautiful Quran Recitation | The Opening of the Quran#shorts #reel",
       "channelId": "UCWxyRVZtbF-fOPFesj8SxAA",
@@ -433,16 +443,6 @@
       "publishedAt": "2026-10-19T04:41:16Z",
       "durationSeconds": 5,
       "category": "recitation"
-    },
-    {
-      "videoId": "XAMe89KlbnQ",
-      "title": "tilawat e quran surah falak #trending #tilawat #quran #surah #falak",
-      "channelId": "UC91oS91J6O3zCsSSi_Ufqcg",
-      "channelTitle": "Abdul Gafoor RAZA",
-      "thumbnailUrl": "https://i.ytimg.com/vi/XAMe89KlbnQ/hqdefault.jpg",
-      "publishedAt": "2026-10-19T01:23:06Z",
-      "durationSeconds": 25,
-      "category": "surah"
     },
     {
       "videoId": "EvrWIkDMqp0",
@@ -482,16 +482,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/B6AY2McM9oE/hqdefault.jpg",
       "publishedAt": "2026-10-18T13:30:28Z",
       "durationSeconds": 60,
-      "category": "surah"
-    },
-    {
-      "videoId": "qVTGSE1KTc8",
-      "title": "Surah Ar-Rahman Full Recitation | سورة الرحمن | Beautiful Quran Recitation #Shorts",
-      "channelId": "UC6yZTnB3zT7L16RuwaQgCRA",
-      "channelTitle": "QuranEcho",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qVTGSE1KTc8/hqdefault.jpg",
-      "publishedAt": "2026-10-18T13:29:33Z",
-      "durationSeconds": 32,
       "category": "surah"
     },
     {
@@ -555,6 +545,36 @@
       "category": "surah"
     },
     {
+      "videoId": "0hcjF8AQAPk",
+      "title": "Surah Al Kafirun Beautiful Recitation 🤍 | Heart Touching Quran Tilawat #Shorts#viral #trending",
+      "channelId": "UCzsGSZX4QT1UqJOJCQQjJ1g",
+      "channelTitle": "QURAN SUKOON",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0hcjF8AQAPk/hqdefault.jpg",
+      "publishedAt": "2026-10-17T05:21:14Z",
+      "durationSeconds": 23,
+      "category": "surah"
+    },
+    {
+      "videoId": "45dNKhAoW7Y",
+      "title": "Surah Nas ❤️ Beautiful Quran Recitation🤲. 26",
+      "channelId": "UCqWT43UtzRs9gl4KCND4wAQ",
+      "channelTitle": "Islamic Reminder",
+      "thumbnailUrl": "https://i.ytimg.com/vi/45dNKhAoW7Y/hqdefault.jpg",
+      "publishedAt": "2026-10-17T03:14:55Z",
+      "durationSeconds": 32,
+      "category": "surah"
+    },
+    {
+      "videoId": "MZkpiwZ4xV4",
+      "title": "Surah Al Quraish سورة القريش | Shaikh Sudais #shaikhsudais #surahquraish #quran #tilawat",
+      "channelId": "UCB8LmNknmPg73M2IyvxuFbg",
+      "channelTitle": "SAEEDSWATI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MZkpiwZ4xV4/hqdefault.jpg",
+      "publishedAt": "2026-10-17T03:00:36Z",
+      "durationSeconds": 23,
+      "category": "surah"
+    },
+    {
       "videoId": "GJX_2cq5GiY",
       "title": "Surah AL-FATIHAH 🙏📖🍁 | Quran Recitation-Egzon Ibrahimi | سورة الفاتحة#beautiful #shorts #news #trend",
       "channelId": "UCGSf83PTa3DGMfo2oeIX5hQ",
@@ -563,6 +583,26 @@
       "publishedAt": "2026-10-17T01:14:37Z",
       "durationSeconds": 23,
       "category": "surah"
+    },
+    {
+      "videoId": "eA5-5mnJN1s",
+      "title": "Most Beautiful Quran Recitation #quranrecitation #aura #core #filtertiktok",
+      "channelId": "UCtkDfT62lle0d4eBSnaL9Sw",
+      "channelTitle": "Roshni Quran Tilawat",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eA5-5mnJN1s/hqdefault.jpg",
+      "publishedAt": "2026-10-17T00:34:19Z",
+      "durationSeconds": 58,
+      "category": "recitation"
+    },
+    {
+      "videoId": "RZfV8bGKhog",
+      "title": "🤍 Ayatul Kursi | Surah Al-Baqarah Ayat 255 | Beautiful Quran Recitation 🕋✨ #Quran",
+      "channelId": "UCzqX-cQ5e0KTjlRIZG07m6w",
+      "channelTitle": "Tilawat Al Mushaf",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RZfV8bGKhog/hqdefault.jpg",
+      "publishedAt": "2026-10-16T17:00:18Z",
+      "durationSeconds": 55,
+      "category": "ayah"
     },
     {
       "videoId": "P6yv_8ALK3k",
@@ -595,16 +635,6 @@
       "category": "surah"
     },
     {
-      "videoId": "_7LX3i3FrcQ",
-      "title": "Qari Abdul Basit Beutiful Tilawat e Quran Ringtone) #shorts #viral #trending #tilawat #quran #islam",
-      "channelId": "UCaFhyyEXvTc1LOsBOEnfOng",
-      "channelTitle": "Mairun R Mushtaq",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_7LX3i3FrcQ/hqdefault.jpg",
-      "publishedAt": "2026-10-15T01:18:27Z",
-      "durationSeconds": 33,
-      "category": "recitation"
-    },
-    {
       "videoId": "VrCNjRRz0OA",
       "title": "Surah Rahman ❤️ Qari Abdul Basit 🎧 #Quran #Islamic #Tilawat",
       "channelId": "UCDTyG5D3zb-pkBPiVeEDETw",
@@ -613,56 +643,6 @@
       "publishedAt": "2026-10-14T11:20:13Z",
       "durationSeconds": 60,
       "category": "surah"
-    },
-    {
-      "videoId": "oPcEjKVGMXE",
-      "title": "shaikh Abdul Basit Abdulbasit Abdulbasit Abdul Basit Abdul samad ki zabardast tilawat",
-      "channelId": "UC6a31HOKfEOroOfEPiirSGA",
-      "channelTitle": "Hafiz Shahid Ansari",
-      "thumbnailUrl": "https://i.ytimg.com/vi/oPcEjKVGMXE/hqdefault.jpg",
-      "publishedAt": "2026-10-14T08:00:41Z",
-      "durationSeconds": 15,
-      "category": "recitation"
-    },
-    {
-      "videoId": "tynvyZ5GT4A",
-      "title": "#tocaboca",
-      "channelId": "UC7M_a2oWUA12bIxqVOvqxzg",
-      "channelTitle": "Md Abdul salam Khan",
-      "thumbnailUrl": "https://i.ytimg.com/vi/tynvyZ5GT4A/hqdefault.jpg",
-      "publishedAt": "2026-10-14T04:52:19Z",
-      "durationSeconds": 42,
-      "category": "recitation"
-    },
-    {
-      "videoId": "Z7vAK_xA-a0",
-      "title": "Beautiful Quran Tilawat by Sheikh Abdur Rahman Sudais Imam masjid Al Haram Makka. 🕋",
-      "channelId": "UC7a6wHOM8MfLw32SEWeXNAw",
-      "channelTitle": "☆Makkah Madina view☆",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Z7vAK_xA-a0/hqdefault.jpg",
-      "publishedAt": "2026-10-13T14:00:26Z",
-      "durationSeconds": 44,
-      "category": "recitation"
-    },
-    {
-      "videoId": "Djwt7uxQTPg",
-      "title": "Mashaallah qari abdul basit 😭 Heart touching tilawat quran #ytshorts",
-      "channelId": "UCu2F9D0UsczWGCYqCQSnLfw",
-      "channelTitle": "islamic peaceful tilawat",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Djwt7uxQTPg/hqdefault.jpg",
-      "publishedAt": "2026-10-13T03:22:03Z",
-      "durationSeconds": 35,
-      "category": "recitation"
-    },
-    {
-      "videoId": "d8FyLTwRYJE",
-      "title": "Aamanar Rasool 🤍 | Last 2 Ayat of Surah Baqarah | Beautiful Quran Recitation",
-      "channelId": "UC4YU-Vz39DuZL4pExKE__cQ",
-      "channelTitle": "The Voice Of Quran Majeed",
-      "thumbnailUrl": "https://i.ytimg.com/vi/d8FyLTwRYJE/hqdefault.jpg",
-      "publishedAt": "2026-10-02T15:40:33Z",
-      "durationSeconds": 59,
-      "category": "ayah"
     },
     {
       "videoId": "ilpo9gXZQqk",
@@ -693,16 +673,6 @@
       "publishedAt": "2026-09-26T15:46:51Z",
       "durationSeconds": 31,
       "category": "recitation"
-    },
-    {
-      "videoId": "-rIr3IMbPvk",
-      "title": "Surah Maoon by Sheikh Abdur rahaman as-Sudais #quran #tilawat #islamicvideo",
-      "channelId": "UC2kVQVS7vtgrTIIJSMfpolQ",
-      "channelTitle": "Divine Verses",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-rIr3IMbPvk/hqdefault.jpg",
-      "publishedAt": "2026-09-26T12:00:18Z",
-      "durationSeconds": 46,
-      "category": "surah"
     },
     {
       "videoId": "C0QK5NWaujs",
@@ -785,6 +755,76 @@
       "category": "surah"
     },
     {
+      "videoId": "UK-A8LtUvV8",
+      "title": "😍🥰 Soothing Surah Al Fatiha Recitation by Sheikh Sudais #shorts #ramadan #sheikhsudais #viralshorts",
+      "channelId": "UCP50_hoZ3b9bdGkWgcq4uhA",
+      "channelTitle": "Think Islam",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UK-A8LtUvV8/hqdefault.jpg",
+      "publishedAt": "2026-07-25T03:00:31Z",
+      "durationSeconds": 47,
+      "category": "surah"
+    },
+    {
+      "videoId": "GznfEmlNoYM",
+      "title": "Surah Al Ahzab 35  | Sheikh Yasser Al Dosari | Beautiful recitation |#quran#islam#youtube#tilawat",
+      "channelId": "UCUZO5SUwgrayREg-AVkV7Hw",
+      "channelTitle": "Muslim Pulse",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GznfEmlNoYM/hqdefault.jpg",
+      "publishedAt": "2026-03-16T11:46:52Z",
+      "durationSeconds": 59,
+      "category": "surah"
+    },
+    {
+      "videoId": "yZHrz2cUy2k",
+      "title": "Surah Al-Lail | Beautiful Recitation by Sheikh Abdul Rahman Al-Sudais | سورة الليل | Quran Tilawat",
+      "channelId": "UC1J1pHNLwA3HyyYxy9rGTmA",
+      "channelTitle": "Imam e Kaaba",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yZHrz2cUy2k/hqdefault.jpg",
+      "publishedAt": "2025-10-25T17:29:35Z",
+      "durationSeconds": 54,
+      "category": "surah"
+    },
+    {
+      "videoId": "0l6wQneDNBM",
+      "title": "Surah Maryam : 30-35 | Beautiful Recitation | Yasser Al Dosari | #quran#islam#shorts#youtube#tilawat",
+      "channelId": "UCUZO5SUwgrayREg-AVkV7Hw",
+      "channelTitle": "Muslim Pulse",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0l6wQneDNBM/hqdefault.jpg",
+      "publishedAt": "2025-10-20T13:43:06Z",
+      "durationSeconds": 57,
+      "category": "surah"
+    },
+    {
+      "videoId": "7Ed_WSxG-IY",
+      "title": "Surah Ibrahim ~ Muhammad Siddiq Al Minshawy ~ BEAUTIFUL Recitation 🎧#quran #minshawi",
+      "channelId": "UCfsIboKNlov5bnl3jRLuQhQ",
+      "channelTitle": "Quranic Wisdom",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7Ed_WSxG-IY/hqdefault.jpg",
+      "publishedAt": "2025-08-30T15:13:17Z",
+      "durationSeconds": 30,
+      "category": "surah"
+    },
+    {
+      "videoId": "N_2xApQMw4M",
+      "title": "Surah Ash-Shams Amazing Voice By Sheikh Abdul Rahman Sudais #quran",
+      "channelId": "UCEiPdud9L6dg-WGnGQivtWg",
+      "channelTitle": "Voice of Sudais",
+      "thumbnailUrl": "https://i.ytimg.com/vi/N_2xApQMw4M/hqdefault.jpg",
+      "publishedAt": "2025-08-29T15:07:10Z",
+      "durationSeconds": 60,
+      "category": "surah"
+    },
+    {
+      "videoId": "Xr00TxPfRsg",
+      "title": "Surah Al Infitar Recitation By Sheikh Abdul Rahman Sudais Amazing Tilawat e Quran #quran",
+      "channelId": "UCEiPdud9L6dg-WGnGQivtWg",
+      "channelTitle": "Voice of Sudais",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xr00TxPfRsg/hqdefault.jpg",
+      "publishedAt": "2025-08-26T16:00:17Z",
+      "durationSeconds": 56,
+      "category": "surah"
+    },
+    {
       "videoId": "P_UilG12lzA",
       "title": "Surah Al Quraish سورة القريش | Shaikh Sudais #shaikhsudais #surahquraish #quran #tilawat",
       "channelId": "UCojvfcudbnWrC5SitMDohYg",
@@ -792,16 +832,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/P_UilG12lzA/hqdefault.jpg",
       "publishedAt": "2025-08-14T09:15:04Z",
       "durationSeconds": 23,
-      "category": "surah"
-    },
-    {
-      "videoId": "EgE_lWNfye8",
-      "title": "Surah Al Naas سورة الناس | Shaikh Sudais #shaikhsudais #surahnaas #quran #tilawat",
-      "channelId": "UCojvfcudbnWrC5SitMDohYg",
-      "channelTitle": "Salman Qasmi Official",
-      "thumbnailUrl": "https://i.ytimg.com/vi/EgE_lWNfye8/hqdefault.jpg",
-      "publishedAt": "2025-07-27T09:15:01Z",
-      "durationSeconds": 25,
       "category": "surah"
     },
     {
@@ -905,52 +935,12 @@
       "category": "surah"
     },
     {
-      "videoId": "NibZNMu3R84",
-      "title": "Surah An-Nasr Recitation | Sheikh Yasser Al-Dosari | Masjid Al-Haram",
-      "channelId": "UC7hu3MXg_CMOzkpWMX8SdFQ",
-      "channelTitle": "Move Towards Islam",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NibZNMu3R84/hqdefault.jpg",
-      "publishedAt": "2024-08-25T08:26:24Z",
-      "durationSeconds": 22,
-      "category": "surah"
-    },
-    {
-      "videoId": "qc6RjvcaGWc",
-      "title": "Surah Ikhlas (سورة الإخلاص) | Beautiful Quran Recitation | Sheikh Abdur Rahman As Sudais #shorts",
-      "channelId": "UCFIPSaep5z2aIZIERZc7xbw",
-      "channelTitle": "Deen Al Islam",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qc6RjvcaGWc/hqdefault.jpg",
-      "publishedAt": "2024-08-24T01:30:35Z",
-      "durationSeconds": 16,
-      "category": "surah"
-    },
-    {
-      "videoId": "iT3-oQ--JcI",
-      "title": "Surah Falaq (سورة الفلق) | Beautiful Quran Recitation | Sheikh Abdur Rahman As Sudais #shorts #quran",
-      "channelId": "UCFIPSaep5z2aIZIERZc7xbw",
-      "channelTitle": "Deen Al Islam",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iT3-oQ--JcI/hqdefault.jpg",
-      "publishedAt": "2024-07-05T02:47:46Z",
-      "durationSeconds": 26,
-      "category": "surah"
-    },
-    {
-      "videoId": "FX_bHjrmy8M",
-      "title": "Surah Al-Ikhlas (Full) By Sheikh Yasser Al Dosari",
-      "channelId": "UC7a2kao_zRw5dykdTWAv38w",
-      "channelTitle": "Al-Aleem Productions",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FX_bHjrmy8M/hqdefault.jpg",
-      "publishedAt": "2024-06-09T20:36:56Z",
-      "durationSeconds": 12,
-      "category": "surah"
-    },
-    {
-      "videoId": "jiDCaGhcRb4",
-      "title": "Imam e kaba | tilawat e quaran | surah e fatiha | recite quaran | qari abdul basit",
-      "channelId": "UCYLxaN0XyHK9cNsX6gxkuPA",
-      "channelTitle": "Qari Abdul Basit",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jiDCaGhcRb4/hqdefault.jpg",
-      "publishedAt": "2024-05-30T04:55:08Z",
+      "videoId": "QxGQWM2rMAA",
+      "title": "Surah Al Fajr 27-30 | Sheikh Sudais | English Translation HD #quran  #faithinallah",
+      "channelId": "UCJpm1HSLFwu0fVg0yitdCuw",
+      "channelTitle": "Quran By Haya",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QxGQWM2rMAA/hqdefault.jpg",
+      "publishedAt": "2024-06-11T19:22:45Z",
       "durationSeconds": 28,
       "category": "surah"
     },
@@ -975,6 +965,16 @@
       "category": "ayah"
     },
     {
+      "videoId": "uZGCmp14mk0",
+      "title": "Al Sheikh Qari Abdul Basit Abdul Samad Bachpan Ki Yaadgar Tilawat #shorts",
+      "channelId": "UC5Vzp5MTllhtmz2M6zHFDCA",
+      "channelTitle": "The Listen Quran Majeed",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uZGCmp14mk0/hqdefault.jpg",
+      "publishedAt": "2023-12-15T14:00:43Z",
+      "durationSeconds": 16,
+      "category": "recitation"
+    },
+    {
       "videoId": "501hzRTP9II",
       "title": "Surah Duha Qari Abdul Basit | Surah Duha Tilawat #surahduha #qariabdulbasit",
       "channelId": "UCVVIaIUwv38O9Y-Sxr7mdBQ",
@@ -985,24 +985,24 @@
       "category": "surah"
     },
     {
-      "videoId": "8A5G7dcZC_I",
-      "title": "Surah Tin Qari Abdul Basit | Surah Tin tilawat #surahtin #qariabdulbasit",
-      "channelId": "UCVVIaIUwv38O9Y-Sxr7mdBQ",
-      "channelTitle": "An Noor Tv",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8A5G7dcZC_I/hqdefault.jpg",
-      "publishedAt": "2023-11-30T15:15:29Z",
-      "durationSeconds": 28,
+      "videoId": "U7qojHy_xYA",
+      "title": "Surah Al Maun Ki Tilawat by Qari Abdul Basit Asamad",
+      "channelId": "UCRo227r5UalIaS6CnMa2jKQ",
+      "channelTitle": "Quran o Sunnat And Fiqh",
+      "thumbnailUrl": "https://i.ytimg.com/vi/U7qojHy_xYA/hqdefault.jpg",
+      "publishedAt": "2023-09-15T01:00:09Z",
+      "durationSeconds": 59,
       "category": "surah"
     },
     {
-      "videoId": "W5dSuXKIQwk",
-      "title": "Ayatul Kursi آية الكرسي Beautiful recitation Shaykh Abdul Rahman Sudais #allah #quranforever",
-      "channelId": "UCy5aIVrZvb5xHOsYbGIEHXw",
-      "channelTitle": "Mohammad Ahmad",
-      "thumbnailUrl": "https://i.ytimg.com/vi/W5dSuXKIQwk/hqdefault.jpg",
-      "publishedAt": "2023-10-27T20:30:30Z",
-      "durationSeconds": 60,
-      "category": "ayah"
+      "videoId": "98W3BgE3UjY",
+      "title": "Surah Baqarah Tilawat Recitation By Qari Abdul Basit #qurankareem247",
+      "channelId": "UCLdCFlxHAwQurBw49Do2DbA",
+      "channelTitle": "Quran Kareem",
+      "thumbnailUrl": "https://i.ytimg.com/vi/98W3BgE3UjY/hqdefault.jpg",
+      "publishedAt": "2023-08-14T01:00:05Z",
+      "durationSeconds": 34,
+      "category": "surah"
     }
   ]
 }
